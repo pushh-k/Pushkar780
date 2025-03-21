@@ -13,6 +13,8 @@
 
 - I’m looking to collaborate on **AcadBuzz**
 
+- Fun Fact I love Dark Mode as light attracts Bugs:)
+
 - How to reach me **pushkarjain350@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
