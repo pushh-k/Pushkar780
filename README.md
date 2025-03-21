@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushkar780" alt="pushkar780" /></a> </p>
 
-- 🔭 I’m currently working on **Kaun Banega Codepati**
+- I’m currently working on **CampusHood** & **Kaun Banega Codepati**
 
-- 🌱 I’m currently learning **Backend development**
+- I’m diving deeper into **MERN Stack Development**
 
-- 👯 I’m looking to collaborate on **AcadBuzz**
+- I’m currently exploring **SMART on FHIR Integration and EHR App Development**
 
-- 📫 How to reach me **pushkarjain350@gmail.com**
+- I’m looking to collaborate on **AcadBuzz**
+
+- How to reach me **pushkarjain350@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
